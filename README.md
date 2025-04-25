@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashirwadpandey" alt="aashirwadpandey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aashirplayz" target="blank"><img src="https://img.shields.io/twitter/follow/aashirplayz?logo=twitter&style=for-the-badge" alt="aashirplayz" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aashirplayz" target="blank"><img src="https://img.shields.io/twitter/follow/aashirplayz?logo=twitter&style=for-the-badge" alt="aashirplayz" /></a> </p>
 
 - 🕮 I’m currently studying on [Trinity International College](https://trinity.edu.np)
 
@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on [Discord Bot Projects](https://dsc.gg/blockyarcade)
 
-- 🤝 I’m looking for help with [Development of Discord Bots](https://dsc.gg/blockyarcade)
+- 💬 Ask me about **Java, C, PHP, JS**
 
-- 💬 Ask me about **HTML, CSS, JS, C, PHP**
-
-- 📫 How to reach me **aashirwadpandey@gmail.com**
+- 📫 Reach me via **aashirwadpandey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
