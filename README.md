@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashirwad Pandey</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashirwadpandey" alt="aashirwadpandey" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/aashirplayz" target="blank"><img src="https://img.shields.io/twitter/follow/aashirplayz?logo=twitter&style=for-the-badge" alt="aashirplayz" /></a> </p>
 
