@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Discord Bot Projects](https://dsc.gg/blockyarcade)
-
 - 💬 Ask me about **Java, C, PHP, JS**
 
 - 📫 Reach me via **aashirwadpandey@gmail.com**
