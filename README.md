@@ -4,7 +4,8 @@
 
 <p align="center"> <a href="https://twitter.com/aashirplayz" target="blank"><img src="https://img.shields.io/twitter/follow/aashirplayz?logo=twitter&style=for-the-badge" alt="aashirplayz" /></a> </p>
 
-- 🕮 I’m currently studying on [Trinity International College](https://trinity.edu.np)
+- 🕮 I’m currently studying on [Nepal College of Information Technology "NCIT"](https://ncit.edu.np)
+- 🕮 I completed my +2 studies on [Trinity International SS/College](https://trinity.edu.np)
 
 - 🌱 I’m currently learning **Python**
 
