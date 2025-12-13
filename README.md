@@ -3,7 +3,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=AashirwadPandey&color=blue&style=for-the-badge&abbreviated=true&base=1082)
-
+![](https://hit.yhype.me/github/profile?account_id=116554991)
 
 - 🕮 I’m currently studying on [Nepal College of Information Technology "NCIT"](https://ncit.edu.np)
 - 🕮 I completed my +2 studies on [Trinity International SS/College](https://trinity.edu.np)
