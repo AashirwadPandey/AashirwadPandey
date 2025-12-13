@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 
 
-<div align="center">![](https://komarev.com/ghpvc/?username=AashirwadPandey&color=blue&style=for-the-badge&abbreviated=true&base=1082)
-</div>
+![](https://komarev.com/ghpvc/?username=AashirwadPandey&color=blue&style=for-the-badge&abbreviated=true&base=1082)
+
 
 - 🕮 I’m currently studying on [Nepal College of Information Technology "NCIT"](https://ncit.edu.np)
 - 🕮 I completed my +2 studies on [Trinity International SS/College](https://trinity.edu.np)
