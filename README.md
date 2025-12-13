@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 
 
-<p align="center"> <a href="https://x.com/aashirbg" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/aashirbg">
+![](https://komarev.com/ghpvc/?username=AashirwadPandey&color=blue&style=for-the-badge&abbreviated=true&base=1082)
 </a> </p>
 
 - 🕮 I’m currently studying on [Nepal College of Information Technology "NCIT"](https://ncit.edu.np)
