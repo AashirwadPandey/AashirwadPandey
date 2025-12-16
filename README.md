@@ -8,9 +8,9 @@
 - 🕮 I’m currently studying on [Nepal College of Information Technology "NCIT"](https://ncit.edu.np)
 - 🕮 I completed my +2 studies on [Trinity International SS/College](https://trinity.edu.np)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Java, C, PHP, JS**
+- 💬 Ask me about **PHP, JS**
 
 - 📫 Reach me via **aashirwadpandey@gmail.com**
 
